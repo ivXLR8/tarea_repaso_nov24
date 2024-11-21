@@ -1,0 +1,5 @@
+#ignorar esta carpeta
+local_config/ 
+#ignroar archivos 
+*.tmp 
+*.env
